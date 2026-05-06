@@ -1,5 +1,5 @@
 
-const API = 'http://localhost:3000/interns';
+const API = 'https://locallybuiltrestapi.onrender.com';
 
 /* ── Inject modal HTML ──────────────────── */
 document.body.insertAdjacentHTML('beforeend', `
