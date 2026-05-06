@@ -1,5 +1,6 @@
 
 const API = 'https://locallybuiltrestapi.onrender.com';
+const API  = `${BASE}/interns`;
 
 /* ── Inject modal HTML ──────────────────── */
 document.body.insertAdjacentHTML('beforeend', `
@@ -288,7 +289,7 @@ async function doSearch() {
     if (!q) { showToast('Please enter a search term.', 'info'); return; }
 
     try {
-        const res     = await fetch(`${API}/search?q=${encodeURIComponent(q)}`);
+        const res     = await fetch(`${API}/search?q=${encodeURIComponent(q)}`); 
         const results = await res.json();
         const box     = document.getElementById('s-results');
         box.style.display = 'block';
