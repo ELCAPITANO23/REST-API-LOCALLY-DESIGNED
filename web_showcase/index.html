@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>A simple Webpage showcasing data from an api</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="web.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <div class="logo">ELCAPITANO</div>
+
+      <nav id="main-nav">
+        <a href="#" onclick="closeNav()">SEARCH</a>
+        <a href="#" onclick="closeNav()">ADD</a>
+        <a href="#" onclick="closeNav()">UPDATE</a>
+        <a href="#" onclick="closeNav()">DELETE</a>
+      </nav>
+
+      <button class="hamburger" id="hamburger" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </header>
+
+    <main>
+      <h1>Web API Showcase Table.</h1>
+      <section class="interns-section">
+        <h2 class="section-title">INTERN DIRECTORY</h2>
+
+        <div class="interns-grid" id="interns-grid">
+          <!-- cards load here -->
+        </div>
+        
+      </section>
+    </main>
+
+    <footer>
+      <div class="top">
+        <div class="comment">
+          <h2>ABOUT THE WEBPAGE</h2>
+          This webpage performs the basic CRUD operations on the data fetched
+          from the API. It is designed using <em>HTML</em>, <em>CSS</em> and
+          <em>JavaScript</em>. The API used in this webpage is a FAST API
+          designed locally which is used for testing purposes only.
+        </div>
+
+        <div class="contact">
+          <h2>CONTACT</h2>
+          <p>
+            Email:<a href="mailto:icanemour@gmail.com"> icanemour@gmail.com</a>
+          </p>
+          <p>
+            Call/Whatsapp:<a href="wa.me//:+255758040794"> +255758040794</a>
+          </p>
+          <p>
+            LinkedIn:<a
+              href="https://www.linkedin.com/in/ikangila-charles-ba4003344"
+              >Ikangila Charles</a
+            >
+          </p>
+          <p>
+            Github:<a href="https://github.com/ELCAPITANO23"> ELCAPITANO23</a>
+          </p>
+        </div>
+      </div>
+
+      <div class="bottom">
+        <p>&copy; 2026 DESIGNED BY ELCAPITANO.<br />All rights reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>

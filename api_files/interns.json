@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "name": "Ikangila Charles",
+    "gender": "M",
+    "age": 22,
+    "country": "Tanzania",
+    "phone": "+255 713 456 789",
+    "email": "elcapitano@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Amina Hassan",
+    "gender": "F",
+    "age": 24,
+    "country": "Kenya",
+    "phone": "+254 712 345 678",
+    "email": "aminaer234@yahoo.com"
+  },
+  {
+    "id": 3,
+    "name": "Kofi Mensah",
+    "gender": "M",
+    "age": 20,
+    "country": "Ghana",
+    "phone": "+233 244 123 456",
+    "email": "kofi.mensah@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "Fatou Diallo",
+    "gender": "F",
+    "age": 21,
+    "country": "Senegal",
+    "phone": "+221 77 234 5678",
+    "email": "fatou.diallo@outlook.com"
+  },
+  {
+    "id": 5,
+    "name": "Chidi Okafor",
+    "gender": "M",
+    "age": 25,
+    "country": "Nigeria",
+    "phone": "+234 803 456 7890",
+    "email": "chidi.okafor@gmail.com"
+  },
+  {
+    "id": 6,
+    "name": "Naledi Dlamini",
+    "gender": "F",
+    "age": 22,
+    "country": "South Africa",
+    "phone": "+27 82 345 6789",
+    "email": "naledi.dlamini@yahoo.com"
+  },
+  {
+    "id": 7,
+    "name": "Tendai Moyo",
+    "gender": "M",
+    "age": 24,
+    "country": "Zimbabwe",
+    "phone": "+263 77 123 4567",
+    "email": "tendai.moyo@gmail.com"
+  },
+  {
+    "id": 8,
+    "name": "Jean-Pierre Habimana",
+    "gender": "M",
+    "age": 23,
+    "country": "Rwanda",
+    "phone": "+250 788 123 456",
+    "email": "jp.habimana@gmail.com"
+  },
+  {
+    "id": 9,
+    "name": "Abel Tesfaye",
+    "gender": "M",
+    "age": 25,
+    "country": "Ethiopia",
+    "phone": "+251 911 234 567",
+    "email": "abel.tesfaye@gmail.com"
+  },
+  {
+    "id": 10,
+    "name": "Oumar Ndiaye",
+    "gender": "M",
+    "age": 25,
+    "country": "Mauritania",
+    "phone": "+222 22 123 456",
+    "email": "oumar.ndiaye@outlook.com"
+  },
+  {
+    "id": 11,
+    "name": "Amira Osman",
+    "gender": "F",
+    "age": 24,
+    "country": "Sudan",
+    "phone": "+249 91 234 5678",
+    "email": "amira.osman@yahoo.com"
+  },
+  {
+    "id": 12,
+    "name": "Sylvie Nkurunziza",
+    "gender": "F",
+    "age": 21,
+    "country": "DR Congo",
+    "phone": "+243 81 234 5678",
+    "email": "sylvie.nkurunziza@gmail.com"
+  },
+  {
+    "id": 13,
+    "name": "Hamid Boudiaf",
+    "gender": "M",
+    "age": 25,
+    "country": "Algeria",
+    "phone": "+213 661 234 567",
+    "email": "hamid.boudiaf@outlook.com"
+  },
+  {
+    "id": 14,
+    "name": "Mariam El Fassi",
+    "gender": "F",
+    "age": 22,
+    "country": "Morocco",
+    "phone": "+212 661 234 567",
+    "email": "mariam.elfassi@gmail.com"
+  },
+  {
+    "id": 15,
+    "name": "Feny Yuan Bin",
+    "gender": "M",
+    "age": 23,
+    "country": "China",
+    "phone": "+91 356 984 32",
+    "email": "yuanli245@yahoo.com"
+  },
+  {
+    "id": 16,
+    "name": "Amrish Chand",
+    "gender": "M",
+    "age": 20,
+    "country": "India",
+    "phone": "+91 9812 345 678",
+    "email": "chand4life@outlook.com"
+  },
+  {
+    "id": 17,
+    "name": "Okoch Chikwezee",
+    "gender": "M",
+    "age": 20,
+    "country": "Nigeria",
+    "phone": "+234 713 456 789",
+    "email": "oluwa@gmail.com"
+  },
+  {
+    "id": 18,
+    "name": "Luc Irakoze",
+    "gender": "M",
+    "age": 22,
+    "country": "Burundi",
+    "phone": "+257 79 123 456",
+    "email": "luc.irakoze@gmail.com"
+  },
+  {
+    "id": 19,
+    "name": "Hellen Clotch",
+    "gender": "F",
+    "age": 20,
+    "country": "England",
+    "phone": "+44 7579 123 456",
+    "email": "hclotchhome@gmail.com"
+  },
+  {
+    "id": 20,
+    "name": "Maisha Magumu",
+    "gender": "F",
+    "age": 23,
+    "country": "El SAlvador",
+    "phone": "+267 874 877 867",
+    "email": "elchapoputin@outlook.com"
+  },
+  {
+    "id": 21,
+    "name": "Osman Bay",
+    "gender": "M",
+    "age": 24,
+    "country": "Turkey",
+    "phone": "+ 90 312 213 2965",
+    "email": "ottoman.bei@gmail.com"
+  },
+  {
+    "id": 22,
+    "name": "Reaan Maliki",
+    "gender": "M",
+    "age": 25,
+    "country": "germany",
+    "phone": "+49 030  838 75242",
+    "email": "brusselsmlk@icloud.com"
+  },
+  {
+    "id": 23,
+    "name": "Justar Anthony",
+    "gender": "M",
+    "age": 21,
+    "country": "Canada",
+    "phone": "+1 800 622 6232",
+    "email": "mahenge4rel@yahoo.com"
+  }
+]
